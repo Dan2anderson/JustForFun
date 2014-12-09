@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\bin\Debug\8QueensGenetic.exe.config
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\obj\Debug\8QueensGenetic.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\bin\Debug\8QueensGenetic.exe
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\bin\Debug\8QueensGenetic.pdb
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\obj\Debug\8QueensGenetic.exe
+C:\Users\Daniel\Desktop\DiscreteStructures\8QueensGenetic\8QueensGenetic\obj\Debug\8QueensGenetic.pdb
