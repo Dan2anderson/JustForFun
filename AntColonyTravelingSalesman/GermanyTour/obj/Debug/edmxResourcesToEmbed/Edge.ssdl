@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CitiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Vertices">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="From" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="To" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Rout" Type="decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="Time" Type="decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="Cost" Type="decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="RTC" Type="decimal" Precision="18" Scale="5" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CitiesModelStoreContainer">
+    <EntitySet Name="Vertices" EntityType="Self.Vertices" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

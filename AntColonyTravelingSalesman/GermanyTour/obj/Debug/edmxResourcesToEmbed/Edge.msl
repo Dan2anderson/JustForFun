@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CitiesModelStoreContainer" CdmEntityContainer="EdgeEntities">
+    <EntitySetMapping Name="Vertices">
+      <EntityTypeMapping TypeName="CitiesModel.Vertex">
+        <MappingFragment StoreEntitySet="Vertices">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="From" ColumnName="From" />
+          <ScalarProperty Name="To" ColumnName="To" />
+          <ScalarProperty Name="Rout" ColumnName="Rout" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="RTC" ColumnName="RTC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

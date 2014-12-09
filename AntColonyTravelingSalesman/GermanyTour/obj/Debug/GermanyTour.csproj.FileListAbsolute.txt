@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\GermanyTour.exe.config
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\GermanyTour.exe
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\GermanyTour.pdb
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\obj\Debug\GermanyTour.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\obj\Debug\GermanyTour.exe
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\obj\Debug\GermanyTour.pdb
+C:\Users\Daniel\Desktop\DiscreteStructures\GermanyTour\GermanyTour\bin\Debug\dataToUpload.csv
